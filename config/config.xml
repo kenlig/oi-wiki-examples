@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <version>1000</version>
+    <id>oi-wiki:search/astar-1</id>
+    <name>astar-1</name>
+    <target></target>
+    <solution>
+        <cpp>code/astar_1.cpp</cpp>
+    </solution>
+</config>
